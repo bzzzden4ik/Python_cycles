@@ -19,6 +19,7 @@ while x_start <= x_end:
             y = 0.0
         else:
             y = (x_start - 6.0) ** 2
+
         print(f"| {x_start:8.2f} | {y:8.2f} |")
 
         x_start += dx
