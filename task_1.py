@@ -9,7 +9,6 @@ print("+" + "-" * 10 + "+" + "-" * 10 + "+")
 while x_start <= x_end:
     if x_start < -10.0 or x_start > 8.0:
         x_start += dx
-        continue
     else:
         if x_start <= -6.0:
             r = 4.0 - (x_start + 8.0) ** 2
@@ -21,4 +20,5 @@ while x_start <= x_end:
         else:
             y = (x_start - 6.0) ** 2
         print(f"| {x_start:8.2f} | {y:8.2f} |")
-    x_start += dx
+
+        x_start += dx
