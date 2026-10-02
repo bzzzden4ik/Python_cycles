@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vvSyHnokbKwrL3ZqpKyS-7" edge="1" parent="1" source="iZrCPwW7VqCzmuENxAf2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vvSyHnokbKwrL3ZqpKyS-6" value="">
+        <mxCell id="vvSyHnokbKwrL3ZqpKyS-7" edge="1" parent="1" source="iZrCPwW7VqCzmuENxAf2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=none;endFill=0;" target="vvSyHnokbKwrL3ZqpKyS-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iZrCPwW7VqCzmuENxAf2-8" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Старт" vertex="1">
